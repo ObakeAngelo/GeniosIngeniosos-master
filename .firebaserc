@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "geniosingeniosos-a41cb"
+  },
+  "targets": {
+    "geniosingeniosos-a41cb": {
+      "hosting": {
+        "GeniosIngeniosos": [
+          "geniosingeniosos-a41cb"
+        ]
+      }
+    }
+  }
+}
